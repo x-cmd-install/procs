@@ -2,90 +2,90 @@ about:
   description: "A modern replacement for ps written in Rust"
   license: MIT
   homepage: 
-  head: da2a63d
+  head: 312cc7a
   archived: false
   latestVersion: "v0.14.12"
-  collectedAt: 2026-09-07T04:28:21Z
+  collectedAt: 2026-09-07T19:57:05Z
 timeline:
   created: 2019-01-28
   lastCommit: 2026-09-07
   lastRelease: 2026-06-25
 popularity:
-  star: 6156
+  star: 6157
   watcher: 25
-  fork: 153
+  fork: 154
   release: 111
   contributor: 55
-  pullRequest: 792
+  pullRequest: 793
   issue: 172
 language:
-  Rust: 513334
+  Rust: 514548
   Makefile: 1773
-totalBytes: 515107
+totalBytes: 516321
 recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 13
+    mergedPR: 14
     openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 30
+    commit: 31
   last60d:
     since: 2026-07-09
     release: 0
-    mergedPR: 26
+    mergedPR: 27
     openPR: 3
     closedIssue: 1
     openIssue: 0
-    commit: 43
+    commit: 45
   last90d:
     since: 2026-06-09
     release: 1
-    mergedPR: 33
+    mergedPR: 34
     openPR: 4
     closedIssue: 2
     openIssue: 1
-    commit: 56
+    commit: 58
   last180d:
     since: 2026-03-11
     release: 1
-    mergedPR: 62
+    mergedPR: 63
     openPR: 6
     closedIssue: 3
     openIssue: 5
-    commit: 83
+    commit: 85
   last360d:
     since: 2025-09-12
     release: 2
-    mergedPR: 117
+    mergedPR: 118
     openPR: 6
     closedIssue: 4
     openIssue: 8
-    commit: 148
+    commit: 150
   last720d:
     since: 2024-09-17
     release: 6
-    mergedPR: 227
+    mergedPR: 228
     openPR: 6
-    closedIssue: 11
-    openIssue: 17
-    commit: 544
+    closedIssue: 13
+    openIssue: 15
+    commit: 549
 total:
   release: 111
-  mergedPR: 703
+  mergedPR: 704
   openPR: 8
-  closedIssue: 146
-  openIssue: 26
-  commit: 2296
+  closedIssue: 148
+  openIssue: 24
+  commit: 2301
 ---
 path: /home/runner/.x-repo/github.com/dalance/procs
-collectedAt: 2026-09-07T04:28:22Z
+collectedAt: 2026-09-07T19:57:06Z
 loc:
   Rust:
-    code: 14190
-    comments: 383
-    blanks: 1653
+    code: 14216
+    comments: 386
+    blanks: 1658
     files: 105
   Toml:
     code: 367
@@ -113,9 +113,9 @@ loc:
     blanks: 372
     files: 2
 total:
-  code: 14723
-  comments: 1605
-  blanks: 2186
+  code: 14749
+  comments: 1608
+  blanks: 2191
   files: 113
 ---
 date: "2026-08-24"
@@ -229,7 +229,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:28:23+00:00
+  collectedAt: 2026-09-07T19:57:07+00:00
   platform:
     darwin/arm64:
       name:  procs-v0.14.12-aarch64-mac.zip
