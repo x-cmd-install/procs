@@ -5,13 +5,13 @@ about:
   head: 4133912
   archived: false
   latestVersion: "v0.14.12"
-  collectedAt: 2026-09-08T01:50:19Z
+  collectedAt: 2026-09-08T04:29:56Z
 timeline:
   created: 2019-01-28
   lastCommit: 2026-09-07
   lastRelease: 2026-06-25
 popularity:
-  star: 6157
+  star: 6158
   watcher: 25
   fork: 154
   release: 111
@@ -80,7 +80,7 @@ total:
   commit: 2303
 ---
 path: /home/runner/.x-repo/github.com/dalance/procs
-collectedAt: 2026-09-08T01:50:21Z
+collectedAt: 2026-09-08T04:29:57Z
 loc:
   Rust:
     code: 14216
