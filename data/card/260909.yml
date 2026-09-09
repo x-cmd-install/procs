@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.14.12"
   latestRelease: "v0.14.12"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:43:32Z
+  collectedAt: 2026-09-09T18:45:28Z
 timeline:
   created: 2019-01-28
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-25
   lastPrerelease: 
 popularity:
-  star: 6162
+  star: 6163
   watcher: 25
   fork: 155
   release: 111
@@ -84,7 +84,7 @@ total:
   commit: 2303
 ---
 path: /home/runner/.x-repo/github.com/dalance/procs
-collectedAt: 2026-09-09T04:43:35Z
+collectedAt: 2026-09-09T18:45:30Z
 loc:
   Rust:
     code: 14216
