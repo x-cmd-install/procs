@@ -1,0 +1,1705 @@
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.1
+  origversion: 0.14.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.0
+  origversion: 0.14.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@tutanota.com
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@tutanota.com
+  categories:
+    - misc
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.13.4
+  origversion: 0.13.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: raspbian_testing
+  subrepo: main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.11
+  origversion: 0.14.11-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@debian.org
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@tutanota.com
+  categories:
+    - utils
+- repo: alpine_3_17
+  subrepo: community
+  srcname: procs
+  binname: procs-fish-completion
+  visiblename: procs-fish-completion
+  version: 0.13.3
+  origversion: 0.13.3-r0
+  status: outdated
+  summary: Fish completions for procs
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: procs
+  binname: procs-bash-completion
+  visiblename: procs-bash-completion
+  version: 0.13.3
+  origversion: 0.13.3-r0
+  status: outdated
+  summary: Bash completions for procs
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.13.3
+  origversion: 0.13.3-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: procs
+  binname: procs-zsh-completion
+  visiblename: procs-zsh-completion
+  version: 0.13.3
+  origversion: 0.13.3-r0
+  status: outdated
+  summary: Zsh completions for procs
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.0
+  origversion: 0.14.0-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: procs
+  binname: procs-bash-completion
+  visiblename: procs-bash-completion
+  version: 0.14.0
+  origversion: 0.14.0-r0
+  status: outdated
+  summary: Bash completions for procs
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: procs
+  binname: procs-fish-completion
+  visiblename: procs-fish-completion
+  version: 0.14.0
+  origversion: 0.14.0-r0
+  status: outdated
+  summary: Fish completions for procs
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: procs
+  binname: procs-zsh-completion
+  visiblename: procs-zsh-completion
+  version: 0.14.0
+  origversion: 0.14.0-r0
+  status: outdated
+  summary: Zsh completions for procs
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.3
+  origversion: 0.14.3-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - me@panekj.dev
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: procs
+  binname: procs-bash-completion
+  visiblename: procs-bash-completion
+  version: 0.14.3
+  origversion: 0.14.3-r0
+  status: outdated
+  summary: Bash completions for procs
+  maintainers:
+    - me@panekj.dev
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: procs
+  binname: procs-fish-completion
+  visiblename: procs-fish-completion
+  version: 0.14.3
+  origversion: 0.14.3-r0
+  status: outdated
+  summary: Fish completions for procs
+  maintainers:
+    - me@panekj.dev
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: procs
+  binname: procs-zsh-completion
+  visiblename: procs-zsh-completion
+  version: 0.14.3
+  origversion: 0.14.3-r0
+  status: outdated
+  summary: Zsh completions for procs
+  maintainers:
+    - me@panekj.dev
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.5
+  origversion: 0.14.5-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: procs
+  binname: procs-bash-completion
+  visiblename: procs-bash-completion
+  version: 0.14.5
+  origversion: 0.14.5-r0
+  status: outdated
+  summary: Bash completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: procs
+  binname: procs-doc
+  visiblename: procs-doc
+  version: 0.14.5
+  origversion: 0.14.5-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: procs
+  binname: procs-fish-completion
+  visiblename: procs-fish-completion
+  version: 0.14.5
+  origversion: 0.14.5-r0
+  status: outdated
+  summary: Fish completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: procs
+  binname: procs-zsh-completion
+  visiblename: procs-zsh-completion
+  version: 0.14.5
+  origversion: 0.14.5-r0
+  status: outdated
+  summary: Zsh completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@tutanota.com
+  categories:
+    - misc
+- repo: alpine_3_21
+  subrepo: community
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.8
+  origversion: 0.14.8-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: procs
+  binname: procs-bash-completion
+  visiblename: procs-bash-completion
+  version: 0.14.8
+  origversion: 0.14.8-r0
+  status: outdated
+  summary: Bash completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.13.3
+  origversion: 0.13.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: alpine_3_21
+  subrepo: community
+  srcname: procs
+  binname: procs-doc
+  visiblename: procs-doc
+  version: 0.14.8
+  origversion: 0.14.8-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: procs
+  binname: procs-fish-completion
+  visiblename: procs-fish-completion
+  version: 0.14.8
+  origversion: 0.14.8-r0
+  status: outdated
+  summary: Fish completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: procs
+  binname: procs-zsh-completion
+  visiblename: procs-zsh-completion
+  version: 0.14.8
+  origversion: 0.14.8-r0
+  status: outdated
+  summary: Zsh completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: procs
+  binname: procs-bash-completion
+  visiblename: procs-bash-completion
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Bash completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: procs
+  binname: procs-doc
+  visiblename: procs-doc
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: procs
+  binname: procs-fish-completion
+  visiblename: procs-fish-completion
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Fish completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: procs
+  binname: procs-zsh-completion
+  visiblename: procs-zsh-completion
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Zsh completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: 0.14.12-1
+  status: newest
+  summary: A modern replacement for ps written in Rust
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: 0.14.12-1
+  status: newest
+  summary: A modern replacement for ps written in Rust
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: procs
+  binname: procs-bash-completion
+  visiblename: procs-bash-completion
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Bash completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: procs
+  binname: procs-doc
+  visiblename: procs-doc
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: procs
+  binname: procs-fish-completion
+  visiblename: procs-fish-completion
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Fish completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: procs
+  binname: procs-zsh-completion
+  visiblename: procs-zsh-completion
+  version: 0.14.10
+  origversion: 0.14.10-r0
+  status: outdated
+  summary: Zsh completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.11
+  origversion: 0.14.11-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: procs
+  binname: procs-bash-completion
+  visiblename: procs-bash-completion
+  version: 0.14.11
+  origversion: 0.14.11-r0
+  status: outdated
+  summary: Bash completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: procs
+  binname: procs-doc
+  visiblename: procs-doc
+  version: 0.14.11
+  origversion: 0.14.11-r0
+  status: outdated
+  summary: Modern replacement for ps written in Rust (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: procs
+  binname: procs-fish-completion
+  visiblename: procs-fish-completion
+  version: 0.14.11
+  origversion: 0.14.11-r0
+  status: outdated
+  summary: Fish completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: procs
+  binname: procs-zsh-completion
+  visiblename: procs-zsh-completion
+  version: 0.14.11
+  origversion: 0.14.11-r0
+  status: outdated
+  summary: Zsh completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: 0.14.12-1
+  status: newest
+  summary: A modern replacement for ps written in Rust
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: 0.14.12-r0
+  status: newest
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: procs
+  binname: procs-bash-completion
+  visiblename: procs-bash-completion
+  version: 0.14.12
+  origversion: 0.14.12-r0
+  status: newest
+  summary: Bash completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: procs
+  binname: procs-doc
+  visiblename: procs-doc
+  version: 0.14.12
+  origversion: 0.14.12-r0
+  status: newest
+  summary: Modern replacement for ps written in Rust (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: procs
+  binname: procs-fish-completion
+  visiblename: procs-fish-completion
+  version: 0.14.12
+  origversion: 0.14.12-r0
+  status: newest
+  summary: Fish completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: procs
+  binname: procs-zsh-completion
+  visiblename: procs-zsh-completion
+  version: 0.14.12
+  origversion: 0.14.12-r0
+  status: newest
+  summary: Zsh completions for procs
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alt_p11
+  srcname: procs
+  binnames:
+    - procs
+    - procs-debuginfo
+  visiblename: procs
+  version: 0.14.5
+  origversion: 0.14.5-alt1
+  status: outdated
+  summary: A replacement for ps written in Rust
+  maintainers:
+    - smasher@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Monitoring
+- repo: altsisyphus
+  srcname: procs
+  binnames:
+    - procs
+    - procs-debuginfo
+  visiblename: procs
+  version: 0.14.11
+  origversion: 0.14.11-alt1
+  status: outdated
+  summary: A replacement for ps written in Rust
+  maintainers:
+    - smasher@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Monitoring
+- repo: arch
+  subrepo: extra
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: 0.14.12-1
+  status: newest
+  summary: A modern replacement for ps written in Rust
+  licenses:
+    - MIT
+- repo: aur
+  srcname: procs-git
+  binname: procs-git
+  visiblename: procs-git
+  version: 0.11.5.667.g6456a59
+  origversion: 0.11.5.667.g6456a59-1
+  status: rolling
+  summary: A modern replacement for ps written by Rust
+  maintainers:
+    - wcasanova@aur
+  licenses:
+    - MIT
+- repo: baulk
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: A modern replacement for ps written in Rust
+- repo: chocolatey
+  binname: procs
+  visiblename: procs
+  version: 0.14.11
+  origversion: null
+  status: outdated
+  summary: A modern replacement for ps
+- repo: crates_io
+  srcname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: A modern replacement for ps
+- repo: crux_37
+  subrepo: contrib
+  srcname: procs
+  visiblename: procs
+  version: 0.14.10
+  origversion: null
+  status: outdated
+  summary: ps written in rust
+  maintainers:
+    - tbier@posteo.de
+- repo: crux_38
+  subrepo: contrib
+  srcname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: ps written in rust
+  maintainers:
+    - tbier@posteo.de
+- repo: debian_14
+  subrepo: forky/main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.11
+  origversion: 0.14.11-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.11
+  origversion: 0.14.11-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.11
+  origversion: 0.14.11-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@debian.org
+  categories:
+    - misc
+- repo: epel_8
+  srcname: rust-procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-1.el8
+  status: outdated
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: epel_9
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-7.el9
+  status: outdated
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: exherbo
+  subrepo: rust
+  srcname: sys-apps/procs
+  visiblename: sys-apps/procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: A modern replacement for ps
+  maintainers:
+    - fallback-mnt-exherbo@repology
+  categories:
+    - sys-apps
+- repo: fedora_39
+  subrepo: updates
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.6
+  origversion: 0.14.6-1.fc39
+  status: outdated
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.0
+  origversion: 0.14.0-1.fc39
+  status: legacy
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.4
+  origversion: 0.14.4-4.fc40
+  status: legacy
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.9
+  origversion: 0.14.9-1.fc40
+  status: outdated
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.6
+  origversion: 0.14.6-1.fc41
+  status: legacy
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-4.fc41
+  status: outdated
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: parrot
+  subrepo: parrot/main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@tutanota.com
+  categories:
+    - misc
+- repo: fedora_42
+  subrepo: release
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.9
+  origversion: 0.14.9-1.fc42
+  status: legacy
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-7.fc42
+  status: outdated
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-4.fc43
+  status: outdated
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-7.fc43
+  status: outdated
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: rust-procs
+  binnames:
+    - procs
+    - rust-procs-debuginfo
+    - rust-procs-debugsource
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-7.fc44
+  status: outdated
+  summary: Modern replacement for ps
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: freebsd
+  srcname: sysutils/procs
+  binname: procs
+  visiblename: sysutils/procs
+  version: 0.14.12
+  origversion: 0.14.12_2
+  status: newest
+  summary: Modern replacement for ps
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - sysutils
+- repo: gentoo
+  srcname: sys-process/procs
+  visiblename: sys-process/procs
+  version: 0.14.6
+  origversion: 0.14.6-r1
+  status: legacy
+  summary: Modern replacement for ps
+  maintainers:
+    - sam@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - sys-process
+- repo: gentoo
+  srcname: sys-process/procs
+  visiblename: sys-process/procs
+  version: 0.14.9
+  origversion: null
+  status: outdated
+  summary: Modern replacement for ps
+  maintainers:
+    - sam@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-3.0
+  categories:
+    - sys-process
+- repo: gnuguix
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.10
+  origversion: null
+  status: outdated
+  summary: Modern replacement for @command{ps}
+- repo: homebrew
+  srcname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: Modern replacement for ps written in Rust
+- repo: kali_rolling
+  subrepo: main
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.11
+  origversion: 0.14.11-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@debian.org
+  categories:
+    - misc
+- repo: liguros_stable
+  srcname: sys-process/procs
+  visiblename: sys-process/procs
+  version: 0.14.6
+  origversion: 0.14.6-r1
+  status: outdated
+  summary: Modern replacement for ps
+  maintainers:
+    - sam@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - sys-process
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: procs
+  binnames:
+    - procs
+    - procs-debuginfo
+    - procs-debugsource
+  visiblename: procs
+  version: 0.14.12
+  origversion: 0.14.12-1.4
+  status: newest
+  summary: A modern replacement for ps written in Rust
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: liguros_develop
+  srcname: sys-process/procs
+  visiblename: sys-process/procs
+  version: 0.14.6
+  origversion: 0.14.6-r1
+  status: legacy
+  summary: Modern replacement for ps
+  maintainers:
+    - sam@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - sys-process
+- repo: liguros_develop
+  srcname: sys-process/procs
+  visiblename: sys-process/procs
+  version: 0.14.9
+  origversion: null
+  status: outdated
+  summary: Modern replacement for ps
+  maintainers:
+    - sam@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - ISC
+    - MPL-2.0
+    - Unicode-3.0
+  categories:
+    - sys-process
+- repo: macports
+  srcname: sysutils/procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: A modern replacement for ps written in Rust
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - sysutils
+- repo: msys2_clang64
+  srcname: mingw-w64-procs
+  binname: mingw-w64-clang-x86_64-procs
+  visiblename: mingw-w64-clang-x86_64-procs
+  version: 0.14.12
+  origversion: 0.14.12-1
+  status: newest
+  summary: A modern replacement for ps written in Rust (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_clangarm64
+  srcname: mingw-w64-procs
+  binname: mingw-w64-clang-aarch64-procs
+  visiblename: mingw-w64-clang-aarch64-procs
+  version: 0.14.12
+  origversion: 0.14.12-1
+  status: newest
+  summary: A modern replacement for ps written in Rust (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: msys2_ucrt64
+  srcname: mingw-w64-procs
+  binname: mingw-w64-ucrt-x86_64-procs
+  visiblename: mingw-w64-ucrt-x86_64-procs
+  version: 0.14.12
+  origversion: 0.14.12-1
+  status: newest
+  summary: A modern replacement for ps written in Rust (mingw-w64)
+  licenses:
+    - spdx:MIT
+- repo: nix_stable_24_05
+  srcname: procs
+  visiblename: procs
+  version: 0.14.5
+  origversion: null
+  status: outdated
+  summary: A modern replacement for ps written in Rust
+  maintainers:
+    - brightone@protonmail.com
+    - jamie@quigley.xyz
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: procs
+  visiblename: procs
+  version: 0.14.7
+  origversion: null
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - brightone@protonmail.com
+    - jamie@quigley.xyz
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: procs
+  visiblename: procs
+  version: 0.14.10
+  origversion: null
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - brightone@protonmail.com
+    - jamie@quigley.xyz
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: procs
+  visiblename: procs
+  version: 0.14.10
+  origversion: null
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - brightone@protonmail.com
+    - jamie@quigley.xyz
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: procs
+  visiblename: procs
+  version: 0.14.11
+  origversion: null
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - jamie@quigley.xyz
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - jamie@quigley.xyz
+  licenses:
+    - MIT
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: procs
+  visiblename: procs
+  version: 0.13.4
+  origversion: 0.13.4-bp155.1.6
+  status: outdated
+  summary: A modern replacement for ps written in Rust
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: procs
+  visiblename: procs
+  version: 0.14.0
+  origversion: 0.14.0-bp156.1.10
+  status: outdated
+  summary: A modern replacement for ps written in Rust
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.2
+  origversion: 0.14.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: openwrt_24_10_x86_64
+  subrepo: packages
+  srcname: feeds/packages/utils/procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.3
+  origversion: 0.14.3-r1
+  status: outdated
+  maintainers:
+    - facevedo@disroot.org
+  categories:
+    - utils
+- repo: parabola
+  subrepo: extra
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: 0.14.12-1
+  status: newest
+  summary: A modern replacement for ps written in Rust
+  licenses:
+    - MIT
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: procs
+  binnames:
+    - procs
+  visiblename: procs
+  version: 0.14.6
+  origversion: 0.14.6-1
+  status: outdated
+  summary: Modern replacement for ps
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - MIT
+  categories:
+    - System/Base
+- repo: scoop
+  subrepo: main
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: slackbuilds
+  srcname: system/procs
+  visiblename: system/procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  maintainers:
+    - ricardsonwilliams+slackbuild@gmail.com
+  categories:
+    - system
+- repo: solus
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: A modern replacement for ps written in Rust
+  maintainers:
+    - jared@jaredcervantes.com
+  licenses:
+    - MIT
+  categories:
+    - system.utils
+- repo: solus
+  srcname: procs
+  binname: procs-dbginfo
+  visiblename: procs-dbginfo
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: Debug symbols for procs
+  maintainers:
+    - jared@jaredcervantes.com
+  licenses:
+    - MIT
+  categories:
+    - debug
+- repo: stalix
+  srcname: bin/procs
+  binname: bin/procs
+  visiblename: bin/procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/procs
+  binname: bin/procs
+  visiblename: bin/procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: termux
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: A modern replacement for ps
+  maintainers:
+    - termux@github
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.9
+  origversion: 0.14.9-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@tutanota.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-3
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@tutanota.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing-updates/universe
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-3ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - noisycoil@tutanota.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute-updates/universe
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-5build1
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.10
+  origversion: 0.14.10-5
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: rust-procs
+  binnames:
+    - procs
+  visiblename: rust-procs
+  version: 0.14.11
+  origversion: 0.14.11-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - noisycoil@debian.org
+  categories:
+    - universe/misc
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: procs
+  binname: procs
+  visiblename: procs
+  version: 0.14.10
+  origversion: 0.14.10_1
+  status: outdated
+  summary: Modern replacement for ps written in Rust
+  maintainers:
+    - travankor@tuta.io
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.12
+  origversion: 0.14.12-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.11
+  origversion: 0.14.11-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.10
+  origversion: 0.14.10-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.9
+  origversion: 0.14.9-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.8
+  origversion: 0.14.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.7
+  origversion: 0.14.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.6
+  origversion: 0.14.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.5
+  origversion: 0.14.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.4
+  origversion: 0.14.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.14.3
+  origversion: 0.14.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.13.2
+  origversion: 0.13.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.13.1
+  origversion: 0.13.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.13.0
+  origversion: 0.13.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.12.1
+  origversion: 0.12.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: procs
+  visiblename: procs
+  version: 0.11.13
+  origversion: 0.11.13-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wikidata
+  srcname: Q105529760
+  visiblename: procs
+  version: 0.14.12
+  origversion: null
+  status: newest
+  summary: command-line task manager
+  licenses:
+    - MIT License
