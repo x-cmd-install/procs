@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.14.12"
   latestRelease: "v0.14.12"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:42:12Z
+  collectedAt: 2026-09-10T16:18:30Z
 timeline:
   created: 2019-01-28
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-06-25
   lastPrerelease: 
 popularity:
-  star: 6163
+  star: 6164
   watcher: 25
   fork: 155
   release: 111
   contributor: 55
   pullRequest: 797
-  issue: 172
+  issue: 173
 language:
   Rust: 514548
   Makefile: 1773
@@ -31,60 +31,60 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 14
-    openPR: 4
+    openPR: 3
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 33
   last60d:
     since: 2026-07-12
     release: 0
     mergedPR: 29
-    openPR: 5
+    openPR: 4
     closedIssue: 1
-    openIssue: 0
+    openIssue: 1
     commit: 47
   last90d:
     since: 2026-06-12
     release: 1
     mergedPR: 35
-    openPR: 6
+    openPR: 5
     closedIssue: 2
-    openIssue: 1
+    openIssue: 2
     commit: 60
   last180d:
     since: 2026-03-14
     release: 1
     mergedPR: 63
-    openPR: 8
+    openPR: 7
     closedIssue: 3
-    openIssue: 5
+    openIssue: 6
     commit: 87
   last360d:
     since: 2025-09-15
     release: 2
     mergedPR: 118
-    openPR: 8
+    openPR: 7
     closedIssue: 4
-    openIssue: 8
+    openIssue: 9
     commit: 152
   last720d:
     since: 2024-09-20
     release: 6
     mergedPR: 228
-    openPR: 8
+    openPR: 7
     closedIssue: 13
-    openIssue: 14
+    openIssue: 15
     commit: 551
 total:
   release: 111
   mergedPR: 706
-  openPR: 10
+  openPR: 9
   closedIssue: 148
-  openIssue: 24
+  openIssue: 25
   commit: 2305
 ---
 path: /home/runner/.x-repo/github.com/dalance/procs
-collectedAt: 2026-09-10T04:42:13Z
+collectedAt: 2026-09-10T16:18:35Z
 loc:
   Rust:
     code: 14216
