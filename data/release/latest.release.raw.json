@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2555456,
       "digest": "sha256:27a79f0b921e93a61f651f36d3e6e99ac865d881b4c0936244f739de41becb37",
-      "download_count": 536,
+      "download_count": 537,
       "created_at": "2026-06-25T10:14:07Z",
       "updated_at": "2026-06-25T10:14:07Z",
       "browser_download_url": "https://github.com/dalance/procs/releases/download/v0.14.12/procs-0.14.12-1.x86_64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2400955,
       "digest": "sha256:74b4f82acc6fe553cbd5af20ba0baac420b42bef9bb0cbb38fef14b8317d9f91",
-      "download_count": 1939,
+      "download_count": 1947,
       "created_at": "2026-06-25T10:12:30Z",
       "updated_at": "2026-06-25T10:12:31Z",
       "browser_download_url": "https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-aarch64-linux.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2095351,
       "digest": "sha256:20c7a33426ed7a43c3e13a48f2d1866ecc979a8ad46733f86ddc78ab7f12d49c",
-      "download_count": 969,
+      "download_count": 970,
       "created_at": "2026-06-25T10:13:22Z",
       "updated_at": "2026-06-25T10:13:22Z",
       "browser_download_url": "https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-aarch64-mac.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2565746,
       "digest": "sha256:81964faf9d5cd0e9f399d5d0954fb6fe4d4d9f7d3cbec4507633df5a45b11713",
-      "download_count": 12413,
+      "download_count": 12425,
       "created_at": "2026-06-25T10:14:07Z",
       "updated_at": "2026-06-25T10:14:07Z",
       "browser_download_url": "https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-linux.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1571894,
       "digest": "sha256:4928c399ae78ee82f99139a5629077b8d90a58599d834584dd4e613cb60c83d0",
-      "download_count": 2738,
+      "download_count": 2741,
       "created_at": "2026-06-25T10:14:57Z",
       "updated_at": "2026-06-25T10:14:57Z",
       "browser_download_url": "https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-windows.zip"
