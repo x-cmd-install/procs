@@ -4,7 +4,7 @@
 
 A modern replacement for ps written in Rust
 
-![procs](https://repo.x-cmd.io/procs.svg)
+![procs](https://repo.x-cmd.io/procs.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,33 @@ x install procs
 - **最新版本**: `v0.14.12` (2026-06-25)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-06-25T10:12:30Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [procs-0.14.12-1.x86_64.rpm](https://github.com/dalance/procs/releases/download/v0.14.12/procs-0.14.12-1.x86_64.rpm) | 2.4 MiB | `runtime/rpm/x86_64` |
+| [procs-v0.14.12-aarch64-linux.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-aarch64-linux.zip) | 2.3 MiB | `native/linux/arm64` |
+| [procs-v0.14.12-aarch64-mac.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-aarch64-mac.zip) | 2.0 MiB | `other` |
+| [procs-v0.14.12-x86_64-linux.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-linux.zip) | 2.4 MiB | `native/linux/x64` |
+| [procs-v0.14.12-x86_64-mac.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-mac.zip) | 2.1 MiB | `other` |
+| [procs-v0.14.12-x86_64-windows.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-windows.zip) | 1.5 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 6,163 · **Fork**: 155 · **开放 issue**: 172 · **贡献者**: 55
+- **Star**: 6,164 · **Fork**: 155 · **开放 issue**: 173 · **贡献者**: 55
 
 ## 累计统计
 
-- **发布数**: 111 · **已合并 PR**: 706 · **开放 PR**: 10 · **已关闭 issue**: 148 · **开放 issue**: 24 · **提交数**: 2305
+- **发布数**: 111 · **已合并 PR**: 706 · **开放 PR**: 9 · **已关闭 issue**: 148 · **开放 issue**: 25 · **提交数**: 2305
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 14 | 4 | 0 | 0 | 33 |
-| 90d | 2026-06-12 | 1 | 35 | 6 | 2 | 1 | 60 |
-| 360d | 2025-09-15 | 2 | 118 | 8 | 4 | 8 | 152 |
+| 30d | 2026-08-11 | 0 | 14 | 3 | 0 | 1 | 33 |
+| 90d | 2026-06-12 | 1 | 35 | 5 | 2 | 2 | 60 |
+| 360d | 2025-09-15 | 2 | 118 | 7 | 4 | 9 | 152 |
 
 ## 代码规模
 
@@ -71,4 +81,4 @@ procs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:42:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:18:52Z._

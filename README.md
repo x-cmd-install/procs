@@ -22,23 +22,33 @@ x install procs
 - **Latest**: `v0.14.12` (2026-06-25)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 6
-- **Published**: 2026-06-25T10:12:30Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [procs-0.14.12-1.x86_64.rpm](https://github.com/dalance/procs/releases/download/v0.14.12/procs-0.14.12-1.x86_64.rpm) | 2.4 MiB | `runtime/rpm/x86_64` |
+| [procs-v0.14.12-aarch64-linux.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-aarch64-linux.zip) | 2.3 MiB | `native/linux/arm64` |
+| [procs-v0.14.12-aarch64-mac.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-aarch64-mac.zip) | 2.0 MiB | `other` |
+| [procs-v0.14.12-x86_64-linux.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-linux.zip) | 2.4 MiB | `native/linux/x64` |
+| [procs-v0.14.12-x86_64-mac.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-mac.zip) | 2.1 MiB | `other` |
+| [procs-v0.14.12-x86_64-windows.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-windows.zip) | 1.5 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 6,163 · **Forks**: 155 · **Open issues**: 172 · **Contributors**: 55
+- **Stars**: 6,164 · **Forks**: 155 · **Open issues**: 173 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 706 · **Open PRs**: 10 · **Closed issues**: 148 · **Open issues**: 24 · **Commits**: 2305
+- **Releases**: 111 · **Merged PRs**: 706 · **Open PRs**: 9 · **Closed issues**: 148 · **Open issues**: 25 · **Commits**: 2305
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 14 | 4 | 0 | 0 | 33 |
-| 90d | 2026-06-12 | 1 | 35 | 6 | 2 | 1 | 60 |
-| 360d | 2025-09-15 | 2 | 118 | 8 | 4 | 8 | 152 |
+| 30d | 2026-08-11 | 0 | 14 | 3 | 0 | 1 | 33 |
+| 90d | 2026-06-12 | 1 | 35 | 5 | 2 | 2 | 60 |
+| 360d | 2025-09-15 | 2 | 118 | 7 | 4 | 9 | 152 |
 
 ## Code size
 
@@ -67,8 +77,8 @@ Lowest-scoring checks:
 Install metadata for procs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `procs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/procs.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/procs.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:42:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:18:52Z._
