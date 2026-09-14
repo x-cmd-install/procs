@@ -26,7 +26,7 @@ Total: **14,688** lines of code across **111** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,165 · **Forks**: 155 · **Open issues**: 173 · **Contributors**: 55
+- **Stars**: 6,168 · **Forks**: 155 · **Open issues**: 173 · **Contributors**: 55
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 13 | 4 | 0 | 1 | 29 |
-| last60d | 2026-07-15 | 0 | 26 | 6 | 1 | 1 | 38 |
-| 90d | 2026-06-15 | 1 | 35 | 7 | 2 | 2 | 56 |
-| last180d | 2026-03-17 | 1 | 62 | 9 | 3 | 6 | 83 |
-| 360d | 2025-09-18 | 2 | 116 | 9 | 4 | 9 | 148 |
-| last720d | 2024-09-23 | 6 | 228 | 9 | 13 | 15 | 551 |
+| 30d | 2026-08-15 | 0 | 12 | 4 | 0 | 1 | 29 |
+| last60d | 2026-07-16 | 0 | 24 | 6 | 1 | 1 | 38 |
+| 90d | 2026-06-16 | 1 | 33 | 7 | 2 | 2 | 56 |
+| last180d | 2026-03-18 | 1 | 61 | 9 | 3 | 6 | 83 |
+| 360d | 2025-09-19 | 2 | 115 | 9 | 4 | 9 | 148 |
+| last720d | 2024-09-24 | 6 | 227 | 9 | 13 | 15 | 551 |
 
 ## Release assets
 
@@ -75,23 +75,6 @@ Lowest-scoring checks:
 | [procs-v0.14.12-x86_64-mac.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-mac.zip) | 2.1 MiB | `other` |
 | [procs-v0.14.12-x86_64-windows.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-windows.zip) | 1.5 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **137** distros on [repology.org](https://repology.org/project/procs). **31** are ✅ on the latest upstream release, **80** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.14.11` | ⚠️ outdated |
-| Debian 14 | `0.14.11` | ⚠️ outdated |
-| Debian 13 | `0.14.10` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.14.10` | ⚠️ outdated |
-| Arch | `0.14.12` | ✅ latest |
-| Homebrew | `0.14.12` | ✅ latest |
-| Nix unstable | `0.14.12` | ✅ latest |
-| Void | `0.14.10` | ⚠️ outdated |
-| Alpine edge | `0.14.12` | ✅ latest |
-| openSUSE Tumbleweed | `0.14.12` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for procs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `procs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +84,4 @@ Install metadata for procs lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:44:09Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:53:17Z._
