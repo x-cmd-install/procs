@@ -4,7 +4,7 @@
 
 A modern replacement for ps written in Rust
 
-[![x-cmd/install — procs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/procs.svg)](https://x-cmd.com/install/procs)
+[![x-cmd/install — procs Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/procs.svg)](https://x-cmd.com/install/procs)
 
 ## Install
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.14.12` (2026-06-25)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-22
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 6,180 · **Forks**: 156 · **Open issues**: 173 · **Contributors**: 55
+- **Stars**: 6,182 · **Forks**: 156 · **Open issues**: 173 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 710 · **Open PRs**: 11 · **Closed issues**: 148 · **Open issues**: 25 · **Commits**: 2313
+- **Releases**: 111 · **Merged PRs**: 711 · **Open PRs**: 11 · **Closed issues**: 148 · **Open issues**: 25 · **Commits**: 2315
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 14 | 4 | 0 | 1 | 33 |
-| last60d | 2026-07-24 | 0 | 22 | 6 | 1 | 1 | 40 |
-| 90d | 2026-06-24 | 1 | 37 | 7 | 2 | 2 | 55 |
-| last180d | 2026-03-26 | 1 | 63 | 8 | 3 | 5 | 86 |
-| 360d | 2025-09-27 | 2 | 114 | 9 | 4 | 9 | 147 |
-| last720d | 2024-10-02 | 6 | 229 | 9 | 13 | 15 | 549 |
+| 30d | 2026-08-24 | 0 | 15 | 4 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 23 | 6 | 1 | 1 | 0 |
+| 90d | 2026-06-25 | 1 | 38 | 7 | 1 | 2 | 0 |
+| last180d | 2026-03-27 | 1 | 63 | 8 | 3 | 5 | 0 |
+| 360d | 2025-09-28 | 2 | 115 | 9 | 4 | 9 | 0 |
+| last720d | 2024-10-03 | 6 | 230 | 9 | 13 | 15 | 551 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for procs lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:47:03Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:40:34Z._
