@@ -47,7 +47,7 @@ x install procs
 
 ## 流行度
 
-- **Star**: 6,201 · **Fork**: 158 · **开放 issue**: 174 · **贡献者**: 55
+- **Star**: 6,200 · **Fork**: 158 · **开放 issue**: 174 · **贡献者**: 55
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install procs
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 4 | 4 | 0 | 1 | 4 |
-| last60d | 2026-08-23 | 0 | 19 | 8 | 0 | 2 | 38 |
-| 90d | 2026-07-24 | 0 | 27 | 10 | 1 | 2 | 46 |
-| last180d | 2026-04-25 | 1 | 56 | 11 | 2 | 5 | 80 |
-| 360d | 2025-10-27 | 2 | 109 | 13 | 4 | 10 | 140 |
-| last720d | 2024-11-01 | 4 | 219 | 13 | 11 | 15 | 521 |
+| 30d | 2026-09-23 | 0 | 4 | 4 | 0 | 1 | 4 |
+| last60d | 2026-08-24 | 0 | 19 | 8 | 0 | 2 | 38 |
+| 90d | 2026-07-25 | 0 | 27 | 10 | 1 | 2 | 46 |
+| last180d | 2026-04-26 | 1 | 56 | 11 | 2 | 5 | 80 |
+| 360d | 2025-10-28 | 2 | 109 | 13 | 4 | 10 | 140 |
+| last720d | 2024-11-02 | 4 | 219 | 13 | 11 | 15 | 519 |
 
 ## Release 资产
 
@@ -75,6 +75,23 @@ x install procs
 | [procs-v0.14.12-x86_64-mac.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-mac.zip) | 2.1 MiB | `other` |
 | [procs-v0.14.12-x86_64-windows.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-windows.zip) | 1.5 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/procs) 上共有 **137** 个发行版报告此项目。**34** 个 ✅ 已是最新上游版本，**77** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.14.11` | ⚠️ outdated |
+| Debian 14 | `0.14.11` | ⚠️ outdated |
+| Debian 13 | `0.14.10` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.14.10` | ⚠️ outdated |
+| Arch | `0.14.12` | ✅ latest |
+| Homebrew | `0.14.12` | ✅ latest |
+| Nix unstable | `0.14.12` | ✅ latest |
+| Void | `0.14.10` | ⚠️ outdated |
+| Alpine edge | `0.14.12` | ✅ latest |
+| openSUSE Tumbleweed | `0.14.12` | ✅ latest |
+
 ## 改进这些数据
 
 procs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `procs` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +101,4 @@ procs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:35:35Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:39:47Z._
