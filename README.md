@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.14.12` (2026-06-25)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-02
 - **Assets in release**: 6
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 716 · **Open PRs**: 17 · **Closed issues**: 148 · **Open issues**: 26 · **Commits**: 2325
+- **Releases**: 111 · **Merged PRs**: 717 · **Open PRs**: 17 · **Closed issues**: 148 · **Open issues**: 26 · **Commits**: 2327
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 5 | 4 | 0 | 0 | 3 |
-| last60d | 2026-09-03 | 0 | 16 | 10 | 0 | 2 | 11 |
-| 90d | 2026-08-04 | 0 | 26 | 12 | 1 | 2 | 46 |
-| last180d | 2026-05-06 | 1 | 55 | 13 | 2 | 5 | 77 |
-| 360d | 2025-11-07 | 2 | 110 | 15 | 4 | 10 | 141 |
-| last720d | 2024-11-12 | 4 | 214 | 15 | 10 | 15 | 509 |
+| 30d | 2026-10-04 | 0 | 6 | 4 | 0 | 0 | 4 |
+| last60d | 2026-09-04 | 0 | 14 | 10 | 0 | 2 | 12 |
+| 90d | 2026-08-05 | 0 | 27 | 12 | 1 | 2 | 47 |
+| last180d | 2026-05-07 | 1 | 56 | 13 | 2 | 5 | 78 |
+| 360d | 2025-11-08 | 2 | 111 | 15 | 4 | 10 | 142 |
+| last720d | 2024-11-13 | 4 | 215 | 15 | 10 | 15 | 509 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **137** distros on [repology.org](https://repology.org/project/procs). **34** are ✅ on the latest upstream release, **77** are ⚠️ on an older version.
+Reported by **137** distros on [repology.org](https://repology.org/project/procs). **32** are ✅ on the latest upstream release, **79** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for procs lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:54:20Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:37:37Z._
