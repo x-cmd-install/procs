@@ -1,0 +1,126 @@
+about:
+  description: "A modern replacement for ps written in Rust"
+  license: MIT
+  homepage: 
+  head: 7ffb8c4
+  archived: false
+  latestVersion: "v0.14.12"
+  latestRelease: "v0.14.12"
+  latestPrerelease: ""
+  collectedAt: 2026-11-10T07:08:17Z
+timeline:
+  created: 2019-01-28
+  lastCommit: 2026-11-09
+  lastVersion: 2026-06-25
+  lastRelease: 2026-06-25
+  lastPrerelease: 
+popularity:
+  star: 6217
+  watcher: 24
+  fork: 159
+  release: 111
+  contributor: 55
+  pullRequest: 819
+  issue: 174
+language:
+  Rust: 514548
+  Makefile: 1773
+totalBytes: 516321
+recent:
+  last30d:
+    since: 2026-10-11
+    release: 0
+    mergedPR: 6
+    openPR: 5
+    closedIssue: 0
+    openIssue: 0
+    commit: 6
+  last60d:
+    since: 2026-09-11
+    release: 0
+    mergedPR: 13
+    openPR: 9
+    closedIssue: 0
+    openIssue: 1
+    commit: 11
+  last90d:
+    since: 2026-08-12
+    release: 0
+    mergedPR: 27
+    openPR: 12
+    closedIssue: 0
+    openIssue: 2
+    commit: 44
+  last180d:
+    since: 2026-05-14
+    release: 1
+    mergedPR: 55
+    openPR: 14
+    closedIssue: 2
+    openIssue: 5
+    commit: 78
+  last360d:
+    since: 2025-11-15
+    release: 2
+    mergedPR: 113
+    openPR: 16
+    closedIssue: 4
+    openIssue: 10
+    commit: 144
+  last720d:
+    since: 2024-11-20
+    release: 4
+    mergedPR: 215
+    openPR: 16
+    closedIssue: 10
+    openIssue: 15
+    commit: 509
+total:
+  release: 111
+  mergedPR: 719
+  openPR: 18
+  closedIssue: 148
+  openIssue: 26
+  commit: 2331
+---
+path: /home/runner/.x-repo/github.com/dalance/procs
+collectedAt: 2026-11-10T07:08:18Z
+loc:
+  Rust:
+    code: 14216
+    comments: 386
+    blanks: 1658
+    files: 105
+  Toml:
+    code: 367
+    comments: 0
+    blanks: 60
+    files: 3
+  AsciiDoc:
+    code: 40
+    comments: 0
+    blanks: 19
+    files: 1
+  Makefile:
+    code: 38
+    comments: 0
+    blanks: 12
+    files: 1
+  Yaml:
+    code: 27
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 782
+    blanks: 372
+    files: 2
+total:
+  code: 14749
+  comments: 1608
+  blanks: 2191
+  files: 113
+---
+
+---
