@@ -24,16 +24,6 @@ Total: **14,688** lines of code across **111** files in the top 5 languages.
 | Makefile | 38 | 0 | 12 | 1 |
 | Yaml | 27 | 0 | 4 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.3 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/dalance/procs>
@@ -42,7 +32,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.14.12` (2026-06-25)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-09
 - **Assets in release**: 6
 
 ## Popularity
@@ -51,18 +41,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 718 · **Open PRs**: 17 · **Closed issues**: 148 · **Open issues**: 26 · **Commits**: 2329
+- **Releases**: 111 · **Merged PRs**: 719 · **Open PRs**: 18 · **Closed issues**: 148 · **Open issues**: 26 · **Commits**: 2331
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 5 | 4 | 0 | 0 | 5 |
-| last60d | 2026-09-09 | 0 | 12 | 8 | 0 | 2 | 10 |
-| 90d | 2026-08-10 | 0 | 27 | 12 | 0 | 2 | 43 |
-| last180d | 2026-05-12 | 1 | 55 | 13 | 2 | 5 | 77 |
-| 360d | 2025-11-13 | 2 | 112 | 15 | 4 | 10 | 143 |
-| last720d | 2024-11-18 | 4 | 214 | 15 | 10 | 15 | 509 |
+| 30d | 2026-10-11 | 0 | 6 | 5 | 0 | 0 | 6 |
+| last60d | 2026-09-11 | 0 | 13 | 9 | 0 | 1 | 11 |
+| 90d | 2026-08-12 | 0 | 27 | 12 | 0 | 2 | 44 |
+| last180d | 2026-05-14 | 1 | 55 | 14 | 2 | 5 | 78 |
+| 360d | 2025-11-15 | 2 | 113 | 16 | 4 | 10 | 144 |
+| last720d | 2024-11-20 | 4 | 215 | 16 | 10 | 15 | 509 |
 
 ## Release assets
 
@@ -101,4 +91,4 @@ Install metadata for procs lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:55:24Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:08:25Z._

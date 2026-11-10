@@ -24,16 +24,6 @@ x install procs
 | Makefile | 38 | 0 | 12 | 1 |
 | Yaml | 27 | 0 | 4 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.3 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/dalance/procs>
@@ -42,7 +32,7 @@ x install procs
 ## 发布
 
 - **最新版本**: `v0.14.12` (2026-06-25)
-- **最近提交**: 2026-11-06
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -51,18 +41,18 @@ x install procs
 
 ## 累计统计
 
-- **发布数**: 111 · **已合并 PR**: 718 · **开放 PR**: 17 · **已关闭 issue**: 148 · **开放 issue**: 26 · **提交数**: 2329
+- **发布数**: 111 · **已合并 PR**: 719 · **开放 PR**: 18 · **已关闭 issue**: 148 · **开放 issue**: 26 · **提交数**: 2331
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 5 | 4 | 0 | 0 | 5 |
-| last60d | 2026-09-09 | 0 | 12 | 8 | 0 | 2 | 10 |
-| 90d | 2026-08-10 | 0 | 27 | 12 | 0 | 2 | 43 |
-| last180d | 2026-05-12 | 1 | 55 | 13 | 2 | 5 | 77 |
-| 360d | 2025-11-13 | 2 | 112 | 15 | 4 | 10 | 143 |
-| last720d | 2024-11-18 | 4 | 214 | 15 | 10 | 15 | 509 |
+| 30d | 2026-10-11 | 0 | 6 | 5 | 0 | 0 | 6 |
+| last60d | 2026-09-11 | 0 | 13 | 9 | 0 | 1 | 11 |
+| 90d | 2026-08-12 | 0 | 27 | 12 | 0 | 2 | 44 |
+| last180d | 2026-05-14 | 1 | 55 | 14 | 2 | 5 | 78 |
+| 360d | 2025-11-15 | 2 | 113 | 16 | 4 | 10 | 144 |
+| last720d | 2024-11-20 | 4 | 215 | 16 | 10 | 15 | 509 |
 
 ## Release 资产
 
@@ -101,4 +91,4 @@ procs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T05:55:25Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:08:25Z._
