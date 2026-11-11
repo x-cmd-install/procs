@@ -24,6 +24,16 @@ Total: **14,688** lines of code across **111** files in the top 5 languages.
 | Makefile | 38 | 0 | 12 | 1 |
 | Yaml | 27 | 0 | 4 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (-1/10) — Found no human activity in the last 15 changesets
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/dalance/procs>
@@ -37,7 +47,7 @@ Total: **14,688** lines of code across **111** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,217 · **Forks**: 159 · **Open issues**: 174 · **Contributors**: 55
+- **Stars**: 6,222 · **Forks**: 160 · **Open issues**: 174 · **Contributors**: 55
 
 ## Totals (cumulative)
 
@@ -47,12 +57,12 @@ Total: **14,688** lines of code across **111** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 6 | 5 | 0 | 0 | 6 |
-| last60d | 2026-09-11 | 0 | 13 | 9 | 0 | 1 | 11 |
-| 90d | 2026-08-12 | 0 | 27 | 12 | 0 | 2 | 44 |
-| last180d | 2026-05-14 | 1 | 55 | 14 | 2 | 5 | 78 |
-| 360d | 2025-11-15 | 2 | 113 | 16 | 4 | 10 | 144 |
-| last720d | 2024-11-20 | 4 | 215 | 16 | 10 | 15 | 509 |
+| 30d | 2026-10-12 | 0 | 6 | 5 | 0 | 0 | 6 |
+| last60d | 2026-09-12 | 0 | 13 | 7 | 0 | 1 | 11 |
+| 90d | 2026-08-13 | 0 | 26 | 11 | 0 | 2 | 44 |
+| last180d | 2026-05-15 | 1 | 55 | 14 | 2 | 5 | 78 |
+| 360d | 2025-11-16 | 2 | 113 | 16 | 4 | 10 | 144 |
+| last720d | 2024-11-21 | 4 | 215 | 16 | 10 | 15 | 509 |
 
 ## Release assets
 
@@ -91,4 +101,4 @@ Install metadata for procs lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:08:25Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:59:44Z._
