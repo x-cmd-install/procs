@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.14.12` (2026-06-25)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 6,252 · **Forks**: 212 · **Open issues**: 174 · **Contributors**: 55
+- **Stars**: 6,257 · **Forks**: 213 · **Open issues**: 174 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 722 · **Open PRs**: 17 · **Closed issues**: 148 · **Open issues**: 26 · **Commits**: 2337
+- **Releases**: 111 · **Merged PRs**: 723 · **Open PRs**: 17 · **Closed issues**: 148 · **Open issues**: 26 · **Commits**: 2339
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 7 | 3 | 0 | 0 | 6 |
-| last60d | 2026-09-25 | 0 | 11 | 6 | 0 | 1 | 11 |
-| 90d | 2026-08-26 | 0 | 26 | 10 | 0 | 2 | 44 |
-| last180d | 2026-05-28 | 1 | 56 | 13 | 2 | 5 | 79 |
-| 360d | 2025-11-29 | 2 | 114 | 15 | 4 | 9 | 145 |
-| last720d | 2024-12-04 | 4 | 212 | 15 | 10 | 15 | 503 |
+| 30d | 2026-10-26 | 0 | 7 | 3 | 0 | 0 | 7 |
+| last60d | 2026-09-26 | 0 | 12 | 6 | 0 | 1 | 12 |
+| 90d | 2026-08-27 | 0 | 27 | 10 | 0 | 2 | 45 |
+| last180d | 2026-05-29 | 1 | 56 | 13 | 2 | 5 | 80 |
+| 360d | 2025-11-30 | 2 | 115 | 15 | 4 | 9 | 146 |
+| last720d | 2024-12-05 | 4 | 213 | 15 | 10 | 15 | 505 |
 
 ## Release assets
 
@@ -75,23 +75,6 @@ Lowest-scoring checks:
 | [procs-v0.14.12-x86_64-mac.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-mac.zip) | 2.1 MiB | `other` |
 | [procs-v0.14.12-x86_64-windows.zip](https://github.com/dalance/procs/releases/download/v0.14.12/procs-v0.14.12-x86_64-windows.zip) | 1.5 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **137** distros on [repology.org](https://repology.org/project/procs). **34** are ✅ on the latest upstream release, **77** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.14.11` | ⚠️ outdated |
-| Debian 14 | `0.14.11` | ⚠️ outdated |
-| Debian 13 | `0.14.10` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.14.10` | ⚠️ outdated |
-| Arch | `0.14.12` | ✅ latest |
-| Homebrew | `0.14.12` | ✅ latest |
-| Nix unstable | `0.14.12` | ✅ latest |
-| Void | `0.14.10` | ⚠️ outdated |
-| Alpine edge | `0.14.12` | ✅ latest |
-| openSUSE Tumbleweed | `0.14.12` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for procs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `procs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +84,4 @@ Install metadata for procs lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:46:52Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:30:24Z._
